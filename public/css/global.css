@@ -1,0 +1,20 @@
+.cursor-btn{
+    cursor: pointer;
+}
+
+.dash-container{
+    margin-top: 100px;
+}
+
+.cartNumber{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: red;
+    font-size: 20px;
+    color: rgb(33, 31, 173);
+    position: absolute;
+    padding:6px;
+    
+}
